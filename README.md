@@ -18,7 +18,7 @@
 👀 Dato curioso: si no estoy codeando me encontrarás dibujando🎨 o al aire libre🌊  
 
 
-Creemos soluciones...¡Contactémonos!
+⚡ Creemos soluciones...¡Contactémonos!
   
 
 <br/>  
