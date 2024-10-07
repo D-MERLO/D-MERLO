@@ -6,9 +6,6 @@
 ## **<div align="center">🎯 Hola! Soy Delfina. Full Stack Developer especializada en Frontend 🎯</div>**  
   
 
-💛 Actualemente me desempeño como Teaching Assistant en [Henry](https://www.soyhenry.com/) 💛  
-  
-
 💻 Tengo conocimientos en HTML, CSS, JavaScript, TypeScript, React, Next, SCRUM, entre otros... 💻  
   
 
